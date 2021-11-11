@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+body {
+	background-color: #009EDD;
+	font-family: Verdana;
+}
+
+footer {
+	text-align: center;
+	font-size: 0.9em;
+	font-style: italic;
+	border-color: darkgreen;
+	border-top-width: 1px;
+	border-top-style: double;
+}
+
+main {
+	padding: 5px;
+}
+
+
+nav {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+header {
+	text-align: center;
+	height: 139px;
+}
+
+.container {
+	background-color: #FFFFFF;
+	border-width: 1px;
+	border-style: solid;
+	margin: auto;
+	width: 950px;
+	border-top-color: #000000;
+}
+a {
+	color: darkgreen;
+}
+.address {
+	color: red;
+	font-family: Georgia;
+}
+
+.prime {
+	text-decoration: underline;
+	font-weight: bold;
+}
+.clubhouse {
+	float: left;
+	border: 1px solid #000000;
+	margin-right: 15px;
+
+}
+.boardwalk {
+	float: right;
+	border: 1px solid #000000;
+
+}
+.table {
+	color: #5E5E5E;
+	font-weight: bolder;
+}
+h1 {
+	font-size: 1.8em;
+	color: green;
+}
+h2 {
+	font-size: 1.4em;
+}
+h3 {
+}
+.dolphin {
+	border-width: 1px;
+	border-style: solid;
+	float: right;
+}
+.impo {
+	color: #FF0004;
+	font-weight: bold;
+}
+.cost {
+	border: 1px solid #000000;
+}
